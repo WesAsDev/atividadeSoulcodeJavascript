@@ -1,3 +1,3 @@
 # atividade Javascript
 
-<a href="https://wesasdev.github.io/atividadeSoulcodeJavascript/" targe="_blank"> PAGINA DAS QUESTÕES </a>
+<a href="https://wesasdev.github.io/atividadeSoulcodeJavascript/" targe="blank_"> PAGINA DAS QUESTÕES </a>
